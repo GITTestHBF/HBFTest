@@ -7,6 +7,7 @@ sap.ui.define([
         onInit() {
         },
         onInittest() {
-        }
+        },
+        onInit2: function(){}
     });
 });
